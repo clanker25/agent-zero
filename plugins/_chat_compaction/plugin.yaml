@@ -1,0 +1,4 @@
+name: _chat_compaction
+title: Chat Compaction
+description: Compact entire chat history into a single optimized summary message.
+version: 2.0.0

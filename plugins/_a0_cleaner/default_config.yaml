@@ -1,0 +1,6 @@
+automatic: false
+automatic_areas: [pip, npm, staging, profiles, screenshots, captures, browser_versions]
+cache_days: 30
+staging_days: 7
+review_days: 20
+custom_folders: []
